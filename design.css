@@ -1,0 +1,98 @@
+/* class를 부를 때는 .하고 클래스 호출 */
+
+.subtitle, .subtitle2{
+    text-align: center;
+}
+
+.intro{
+    width:800px;
+    height: 80px;
+    border:black solid 3px;
+    margin: 0 auto;
+}
+.book1{
+    width:800px;
+    height: 100px;
+    background-color: beige;
+    margin: 0 auto; 
+}
+.book2{
+    width:800px;
+    height:100px;
+    background-color: burlywood;
+    margin : 0 auto;
+}
+
+.bimg{
+    width: 500px;
+    margin: 0 auto;
+    background-color: pink;
+    font-size: 0;
+    text-align: center;
+    
+}
+.bimg1{
+    display: inline;
+    float: left;
+}
+.bimg2{
+    display: inline;    
+    float:right;
+}
+.clear-tag{
+    clear:both;
+    /* float 끊는것 */
+}
+.goodfood, .badfood{
+    width: 300px;
+    height: 110px;
+    background-color: skyblue;
+    margin: 0 auto;
+}
+#intro{
+    text-align: center;
+}
+/* .block1 {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+} */
+
+/* 동시 저장 ctrl k 하고나서 s */
+
+/* .block2 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+} */
+
+/* .block1, .block2 {
+    width:200px;
+    height: 200px;
+    background-color: aqua;
+}
+
+#block3 {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    Margin: 0 auto;
+    border: blueviolet solid 3px;
+    background: url('사진.jpg') no-repeat center center;
+    background-size: cover;
+}*/
+
+h1, h2{
+    text-align: center
+} 
+
+#hobby{
+    width : 200px;
+    height : 100px;
+    border: black solid 3px;
+    margin: 0 auto;
+    /* text-align: center; */
+}
+
+
+/* id는 # */
